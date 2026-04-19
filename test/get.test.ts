@@ -213,6 +213,6 @@ describe("Get Route", () => {
     expect(lyrics.status).toBe("Success");
     expect(lyrics.data).toHaveProperty("lyrics");
     expect(lyrics.data).toHaveProperty("snippet");
-    expect(lyrics.data.snippet).toBe(" ~Music~");
+    expect(lyrics.data.snippet).toBe(" तू अगर मेरी, ये हवाएँ तेरी");
   });
 });
