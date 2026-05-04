@@ -10,17 +10,17 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@biomejs/biome": "^2.4.13",
-    "@scalar/hono-api-reference": "^0.10.10",
+    "@biomejs/biome": "^2.4.14",
+    "@scalar/hono-api-reference": "^0.10.13",
     "crypto-js": "^4.2.0",
     "entities": "^8.0.0",
-    "hono": "^4.12.15",
+    "hono": "^4.12.16",
     "hono-rate-limiter": "^0.5.3"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20260426.1",
-    "@commitlint/cli": "^20.5.2",
-    "@commitlint/config-conventional": "^20.5.0",
+    "@cloudflare/workers-types": "^4.20260504.1",
+    "@commitlint/cli": "^20.5.3",
+    "@commitlint/config-conventional": "^20.5.3",
     "@total-typescript/ts-reset": "^0.6.1",
     "@types/crypto-js": "^4.2.2",
     "bun-types": "^1.3.13",
@@ -28,7 +28,7 @@
     "lint-staged": "^16.4.0",
     "prettier": "^3.8.3",
     "typescript": "^5.9.3",
-    "wrangler": "^4.85.0"
+    "wrangler": "^4.87.0"
   },
   "lint-staged": {
     "*": [
