@@ -10,15 +10,15 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@biomejs/biome": "^2.4.14",
-    "@scalar/hono-api-reference": "^0.10.13",
+    "@biomejs/biome": "^2.4.15",
+    "@scalar/hono-api-reference": "^0.10.14",
     "crypto-js": "^4.2.0",
     "entities": "^8.0.0",
-    "hono": "^4.12.16",
+    "hono": "^4.12.18",
     "hono-rate-limiter": "^0.5.3"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20260504.1",
+    "@cloudflare/workers-types": "^4.20260511.1",
     "@commitlint/cli": "^21.0.0",
     "@commitlint/config-conventional": "^21.0.0",
     "@total-typescript/ts-reset": "^0.6.1",
@@ -28,7 +28,7 @@
     "lint-staged": "^16.4.0",
     "prettier": "^3.8.3",
     "typescript": "^5.9.3",
-    "wrangler": "^4.87.0"
+    "wrangler": "^4.90.0"
   },
   "lint-staged": {
     "*": [
