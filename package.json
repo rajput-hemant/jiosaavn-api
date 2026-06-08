@@ -18,7 +18,7 @@
     "hono-rate-limiter": "^0.5.3"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20260602.1",
+    "@cloudflare/workers-types": "^4.20260608.1",
     "@commitlint/cli": "^21.0.2",
     "@commitlint/config-conventional": "^21.0.2",
     "@total-typescript/ts-reset": "^0.6.1",
@@ -28,7 +28,7 @@
     "lint-staged": "^17.0.7",
     "prettier": "^3.8.3",
     "typescript": "^5.9.3",
-    "wrangler": "^4.96.0"
+    "wrangler": "^4.98.0"
   },
   "lint-staged": {
     "*": [
